@@ -1,7 +1,7 @@
 FROM alpine:3.11
 
 ENV NAME keycloak-gatekeeper
-ENV KEYCLOAK_VERSION 8.0.2
+ENV KEYCLOAK_VERSION 9.0.3
 ENV GOOS linux
 ENV GOARCH amd64
 
